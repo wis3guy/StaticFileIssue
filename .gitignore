@@ -1,0 +1,4 @@
+.idea
+StaticFileIssue/obj
+StaticFileIssue/bin
+*.user
